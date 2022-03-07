@@ -1,11 +1,16 @@
-# Sample Snack app
+## Анимация в React Native
+### Цель работы
+В этой работе мы рассмотрим основные принципы анимации, которые можно реализовать с помощью React Native. 
+### Задания для выполнения
+1.Используя официальную документацию https://reactnative.dev/docs/animated ознакомьтесь с синтаксисом
+2.Ознакомьтесь с основными принципами анимации: https://infogra.ru/ui/12-printsipov-primeneniya-animatsii-v-polzovatelskih-interfejsah
+3.Создайте анимацию для слайдера с различными картиками, добавьте другие компоненты на экран
+### Контрольные вопросы
+Что такое параллакс-эффект?
+Параллакс — это визуальный эффект, при котором фон движется медленнее, чем объект на переднем плане. Таким образом появляется впечатление объема и глубины, сайт оживляется, а пользователь получает более захватывающий опыт при работе с ним.
+### Дополнительные задания
+Добавьте кнопку на экран и создайте ему анимацию.
+### Готовая работа: 
+<img src = "https://user-images.githubusercontent.com/70855182/157128226-e39d0499-8212-49ce-8a34-006bce17f43c.gif" width="270" height="600" />
 
-Open the `App.js` file to start writing some code. You can preview the changes directly on your phone or tablet by scanning the **QR code** or use the iOS or Android emulators. When you're done, click **Save** and share the link!
-
-When you're ready to see everything that Expo provides (or if you want to use your own editor) you can **Download** your project and use it with [expo-cli](https://docs.expo.io/get-started/installation).
-
-All projects created in Snack are publicly available, so you can easily share the link to this project via link, or embed it on a web page with the `<>` button.
-
-If you're having problems, you can tweet to us [@expo](https://twitter.com/expo) or ask in our [forums](https://forums.expo.io/c/snack).
-
-Snack is Open Source. You can find the code on the [GitHub repo](https://github.com/expo/snack).
+<img src = "https://user-images.githubusercontent.com/70855182/157128538-a05a742e-213b-42f5-bf25-ffdfed663636.png" width="270" height="600" /> <img src = "https://user-images.githubusercontent.com/70855182/157128624-9bd9b9ca-8a62-495a-9d20-5a92a62c889a.png" width="270" height="600" />
