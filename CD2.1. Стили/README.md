@@ -1,11 +1,16 @@
-# Sample Snack app
+## Стили в React Native
+### Цель работы
+Получить навыки работы со стилями в React Native.
+## Задания для выполнения
+Используя стартовый шаблон https://snack.expo.io/ оформите контент таким же образом:
+Загрузить созданную программу на GitHub в репозиторий Student, используя формат в названии Фамилия (латинскими буквами)
+## Контрольные вопросы
+Приведите аналоги тегов html в React Native: 
+div - view, для разделения экрана 
+p - text, для разделения на параграфы 
+img - image, для вставки изображений 
+button - в react native такой же тег для создания объекта кнопки
+## Дополнительные задания
+Добавьте кнопку «Читать далее»
 
-Open the `App.js` file to start writing some code. You can preview the changes directly on your phone or tablet by scanning the **QR code** or use the iOS or Android emulators. When you're done, click **Save** and share the link!
-
-When you're ready to see everything that Expo provides (or if you want to use your own editor) you can **Download** your project and use it with [expo-cli](https://docs.expo.io/get-started/installation).
-
-All projects created in Snack are publicly available, so you can easily share the link to this project via link, or embed it on a web page with the `<>` button.
-
-If you're having problems, you can tweet to us [@expo](https://twitter.com/expo) or ask in our [forums](https://forums.expo.io/c/snack).
-
-Snack is Open Source. You can find the code on the [GitHub repo](https://github.com/expo/snack).
+<img src = "https://user-images.githubusercontent.com/70855182/157123634-8d610464-428a-4bdc-b33e-bf96dcde2e22.png" width="300" height="600" /> <img src = "https://user-images.githubusercontent.com/70855182/157123736-7cadb879-1a89-4893-b270-59709f665b18.png" width="300" height="600" />
