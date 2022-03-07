@@ -1,11 +1,10 @@
-# Sample Snack app
+## Основные компоненты React Native
+### Цель работы
+Получить навыки работы с основными компонентами в React Native.
+### Задания для выполнения
+Используя официальную документацию https://reactnative.dev/docs/components-and-apis#user-interface создайте экран с тремя и более основными компонентами.
+Загрузить созданную программу на GitHub в репозиторий Student, используя формат в названии Фамилия (латинскими буквами)
+В приложении используется несколько ScrollView - в горизонтальной и вертикальных позициях, а также Button, Alert, View, Stylesheet, Text
 
-Open the `App.js` file to start writing some code. You can preview the changes directly on your phone or tablet by scanning the **QR code** or use the iOS or Android emulators. When you're done, click **Save** and share the link!
-
-When you're ready to see everything that Expo provides (or if you want to use your own editor) you can **Download** your project and use it with [expo-cli](https://docs.expo.io/get-started/installation).
-
-All projects created in Snack are publicly available, so you can easily share the link to this project via link, or embed it on a web page with the `<>` button.
-
-If you're having problems, you can tweet to us [@expo](https://twitter.com/expo) or ask in our [forums](https://forums.expo.io/c/snack).
-
-Snack is Open Source. You can find the code on the [GitHub repo](https://github.com/expo/snack).
+<img src = "https://user-images.githubusercontent.com/70855182/157125258-9f83b126-49d6-47a6-a86e-768c472a39f7.png" width="300" height="600" /> <img src = "https://user-images.githubusercontent.com/70855182/157125330-c7377090-8287-464e-8c52-5a9d8b13d9c6.png" width="300" height="600" /> <img src = "https://user-images.githubusercontent.com/70855182/157125568-452ce6fd-fa2e-4c7f-892b-3695056a12d4.png" width="300" height="600" />
+<img src = "https://user-images.githubusercontent.com/70855182/157125654-22fc4c0e-4932-4fe1-a5e5-ac418c7013ad.png" width="300" height="600" />
