@@ -17,3 +17,4 @@ expo install react-native-gesture-handler react-native-reanimated react-native-s
 
 <img src = "https://user-images.githubusercontent.com/70855182/157127330-74eb666f-6a98-4221-b3b3-89925eafd9a3.png" width="270" height="600" /> <img src = "https://user-images.githubusercontent.com/70855182/157127375-ee6b70e1-84de-4093-90ef-f3e1dbce2ba3.png" width="270" height="600" />
 
+![image](https://user-images.githubusercontent.com/70855182/157259518-3d297b16-1ed5-4b63-9709-a6a95ce03290.png)
