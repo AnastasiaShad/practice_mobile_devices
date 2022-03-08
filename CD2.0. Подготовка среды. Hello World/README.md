@@ -16,3 +16,6 @@
 попробовать добавить другие объкты:
 
 <img src = "https://user-images.githubusercontent.com/70855182/157122396-2c68c4f0-279b-4c72-a399-24ad59b4834c.png" width="300" height="600" /> <img src = "https://user-images.githubusercontent.com/70855182/157122624-64b60851-2b18-4d30-8a24-f9f64f77e547.png" width="300" height="600" />
+
+![image](https://user-images.githubusercontent.com/70855182/157260683-35af1792-3d89-49c9-8485-9100c65584d8.png)
+
