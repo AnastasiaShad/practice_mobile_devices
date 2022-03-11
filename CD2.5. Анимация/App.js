@@ -55,7 +55,7 @@ function runTiming(clock, from, to) {
 }
 
 
-const App: () => React$Node = () => {
+const App: () => {
   const [show, setShow] = useState(false);
   const { clock, animatedValue } = useMemo(() => ({
     clock: new Clock(),
