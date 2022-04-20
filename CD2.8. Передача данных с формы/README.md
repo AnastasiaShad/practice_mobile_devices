@@ -1,11 +1,21 @@
-# Sample Snack app
+# Передача данных с формы
 
-Open the `App.js` file to start writing some code. You can preview the changes directly on your phone or tablet by scanning the **QR code** or use the iOS or Android emulators. When you're done, click **Save** and share the link!
+## Задания для выполнения
 
-When you're ready to see everything that Expo provides (or if you want to use your own editor) you can **Download** your project and use it with [expo-cli](https://docs.expo.io/get-started/installation).
+1.Изучите реализованный пример: https://snack.expo.dev/49WY2dQMS.
 
-All projects created in Snack are publicly available, so you can easily share the link to this project via link, or embed it on a web page with the `<>` button.
+2.Ознакомьтесь с описанием компонента ImageBackground https://docs.expo.dev/ui-programming/image-background/
 
-If you're having problems, you can tweet to us [@expo](https://twitter.com/expo) or ask in our [forums](https://forums.expo.io/c/snack).
+3.Используя реализованную навигацию для велком-скрина с регистрацией (лабораторная 7), создайте экран с приветствием, данные на который будут поступать с соседнего экрана.
 
-Snack is Open Source. You can find the code on the [GitHub repo](https://github.com/expo/snack).
+4.Поделитесь ссылкой на проект в Expo. Загрузить созданное приложение на на GitHub в репозиторий Student, используя формат в названии Фамилия (латинскими буквами)_8.
+
+## Выполнение задания:
+
+
+![image](https://user-images.githubusercontent.com/70855182/164237698-b8fd2ea4-1f14-43c8-8b16-236e4de4df2e.png)
+
+![image](https://user-images.githubusercontent.com/70855182/164237441-c9520b32-96b6-40f2-8fe7-8a7d8a82a494.png)
+
+![image](https://user-images.githubusercontent.com/70855182/164237412-dfddbdc3-578f-4abf-a404-b0febc6c7347.png)
+
