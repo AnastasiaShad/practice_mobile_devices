@@ -1,11 +1,13 @@
-# Sample Snack app
+# Форма регистрации
 
-Open the `App.js` file to start writing some code. You can preview the changes directly on your phone or tablet by scanning the **QR code** or use the iOS or Android emulators. When you're done, click **Save** and share the link!
+## Задания для выполнения
 
-When you're ready to see everything that Expo provides (or if you want to use your own editor) you can **Download** your project and use it with [expo-cli](https://docs.expo.io/get-started/installation).
+1.Создайте форму регистрации с экраном альтернативной авторизации в React Native.
 
-All projects created in Snack are publicly available, so you can easily share the link to this project via link, or embed it on a web page with the `<>` button.
+2.Добавьте всплывающее сообщение для кнопок: «Регистрация/Авторизация прошла успешна».
 
-If you're having problems, you can tweet to us [@expo](https://twitter.com/expo) or ask in our [forums](https://forums.expo.io/c/snack).
+3.Поделитесь ссылкой на проект в Expo. Загрузить созданное приложение на на GitHub в репозиторий Student, используя формат в названии Фамилия (латинскими буквами)_6.
 
-Snack is Open Source. You can find the code on the [GitHub repo](https://github.com/expo/snack).
+<img src = "https://user-images.githubusercontent.com/70855182/164235821-3298b474-9b44-4721-b741-dc915cc4634a.png" width="270" height="600" />
+<img src = "https://user-images.githubusercontent.com/70855182/164235844-0501c685-c0d9-4e2c-96e4-a22057ccb93b.png" width="270" height="600" />
+
