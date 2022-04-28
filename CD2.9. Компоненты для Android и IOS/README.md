@@ -1,11 +1,16 @@
-# Sample Snack app
+# Компоненты для Android и IOS
 
-Open the `App.js` file to start writing some code. You can preview the changes directly on your phone or tablet by scanning the **QR code** or use the iOS or Android emulators. When you're done, click **Save** and share the link!
+## Задания для выполнения
 
-When you're ready to see everything that Expo provides (or if you want to use your own editor) you can **Download** your project and use it with [expo-cli](https://docs.expo.io/get-started/installation).
+Используйте официальную документацию https://reactnative.dev/docs/components-and-apis#android-components-and-apis ознакомьтесь с основными компонентами в React Native для каждой из платформ.
 
-All projects created in Snack are publicly available, so you can easily share the link to this project via link, or embed it on a web page with the `<>` button.
+Ознакомьтесь с гайдами UX/UI для каждой из платформ: https://developer.apple.com/design/human-interface-guidelines/ https://material.io/
 
-If you're having problems, you can tweet to us [@expo](https://twitter.com/expo) or ask in our [forums](https://forums.expo.io/c/snack).
+Выберите одну из платформ и реализуйте типовой экран, включающий основные компоненты для нее. Например с помощью supportedURL реализовать
 
-Snack is Open Source. You can find the code on the [GitHub repo](https://github.com/expo/snack).
+Поделитесь ссылкой на проект в Expo. Загрузить созданное приложение на на GitHub в репозиторий Student, используя формат в названии Фамилия (латинскими буквами)_8.
+
+## Выполнение заданий:
+
+<img src = "https://user-images.githubusercontent.com/70855182/165831947-f71cc30e-28fd-4e9f-a11d-ea24b898b31b.gif" width="270" height="600" />
+
