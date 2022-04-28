@@ -1,11 +1,17 @@
-# Sample Snack app
+# Файловая система
 
-Open the `App.js` file to start writing some code. You can preview the changes directly on your phone or tablet by scanning the **QR code** or use the iOS or Android emulators. When you're done, click **Save** and share the link!
 
-When you're ready to see everything that Expo provides (or if you want to use your own editor) you can **Download** your project and use it with [expo-cli](https://docs.expo.io/get-started/installation).
+## Задания для выполнения
 
-All projects created in Snack are publicly available, so you can easily share the link to this project via link, or embed it on a web page with the `<>` button.
+Используя официальную документацию, ознакомьтесь с компонентом https://reactnative.dev/docs/platform
 
-If you're having problems, you can tweet to us [@expo](https://twitter.com/expo) or ask in our [forums](https://forums.expo.io/c/snack).
+Изучите ресурс: https://developers.giphy.com/
 
-Snack is Open Source. You can find the code on the [GitHub repo](https://github.com/expo/snack).
+Воспользовавшись документацией https://docs.expo.dev/versions/v43.0.0/sdk/filesystem/ реализуйте галерею gif-файлов со стилями.
+
+Поделитесь ссылкой на проект в Expo. Загрузить созданное приложение на на GitHub в репозиторий Student, используя формат в названии Фамилия (латинскими буквами)_10.
+
+## Выполнение задания
+
+<img src = "https://user-images.githubusercontent.com/70855182/165833345-5cad829f-83d0-41cd-908b-c7a317abd19c.gif" width="270" height="600" />
+
